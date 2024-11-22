@@ -1,0 +1,36 @@
+.container{
+	background-color: #a7e2e6;
+	width : 95%;
+	margin: auto;
+}
+
+.c1{
+
+	background-color:#f3cd86 ;
+	font-family: tahoma;
+	line-height: 1.6em;
+	word-spacing: 0.1em;
+	padding :30px 45px;
+	border:5px  solid #708bdb;
+	border-radius: 5px;
+}
+
+.list{
+	font-family: sans-serif;
+	word-spacing: .2em;
+	line-height: 1.6em;
+	background-color: #85e085;
+	padding: 20px;
+	border: 5px #708bdb solid ;
+	border-radius:5px;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color:  #3359cc;
+}
+
+.list ul{
+	list-style-image: url('C:/Users/karth/OneDrive/Desktop/myapp/images/img.png');
+}
